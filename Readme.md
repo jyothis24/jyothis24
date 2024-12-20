@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smash-cracker&label=Profile%20views&color=0e75b6&style=flat" alt="smash-cracker" /> </p>
 
 - 🌱 I’m currently learning **Flutter and Python**
-
 - 👯 I’m looking to collaborate on **opensource projects**
-
+-⚡ Fun fact I think I am funny
+-📫 How to reach me --> jyothisjohn8086@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
