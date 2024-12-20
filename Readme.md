@@ -7,10 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter and Python**
 - 👯 I’m looking to collaborate on **opensource projects**
-  
--⚡ Fun fact I think I am funny
+- 🌱 I’m currently learning **Flutter and Python**
+- 👯 I’m looking to collaborate on **opensource projects**  
 
--📫 How to reach me --> jyothisjohn8086@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
