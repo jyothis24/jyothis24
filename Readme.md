@@ -3,7 +3,7 @@
 <h3 align="center">Coding Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c0/96/b2/c096b276205f1b632555943faf3bf768.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smash-cracker&label=Profile%20views&color=0e75b6&style=flat" alt="smash-cracker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothis24&label=Profile%20views&color=0e75b6&style=flat" alt="smash-cracker" /> </p>
 
 - 🌱 I’m currently learning **Flutter and Python**
 - 👯 I’m looking to collaborate on **opensource projects**
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jyothis-john-382354307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennythomas-246" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jyothis-john-382354307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyothis24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
